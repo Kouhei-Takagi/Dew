@@ -141,3 +141,7 @@ You may freely use, modify, and distribute this code to build autonomous communi
 * **Code Generation (MVP):** Implemented via **Antigravity**.
 
 本プロトコルの思想（デュアルエコノミーの概念や時間減衰モデル）およびシステム要件は、**Google Gemini** との壁打ち（対話）の中から生まれ、**Antigravity** を通じて実装されました。「AI時代における人間のための非常口」をAIとの共創によって設計・放流した、ひとつの思考実験の記録としてここに記します。
+
+※なお、本プロトコルにおける「Human Device（生身の人間証明ノード）」はスマートフォンに限定されず、スマートグラス（眼鏡・サングラス型ウェアラブル端末）、スマートウォッチ、スマートリング、ヒアラブル端末など、人間の身体に装着・密着して生体認証や生存証明を行えるあらゆるパーソナルデバイスを包含します。
+
+Note: In this protocol, a "Human Device" (Proof-of-Humanity minting node) is not limited to smartphones; it encompasses any personal hardware capable of verifying human presence and biometrics, including smart glasses (eyewear/sunglasses), smartwatches, smart rings, and other wearable devices.
